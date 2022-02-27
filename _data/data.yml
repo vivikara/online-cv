@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: PARASKEVI KARAGOUNI 
-    tagline: Full Stack Developer
+    tagline: Computer Science Student 
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -78,6 +78,9 @@ skills:
 
       - name: Sketch & Photoshop
         level: 70%
+        
+      -name: C 
+       level: 97% 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
