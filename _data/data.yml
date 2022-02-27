@@ -47,21 +47,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-      Computer Science student at the Ionian University 
+      From 2017 I am Computer Science student at the Ionian University.Except this, I am a professional volleyball player and in my free time I also coaching and teaching volleyball
+      young children especially girls. 
+      
       
     
 education:
     tittle: Education 
-    Ionian University
+    summary: | 
+     Ionian University
     
 experiences:
    tittle: Experiences 
+    summary: | 
+        Create Video-Game and E-shop for projects in the context of the courses.
     
-   -  university: Ionian University
+      university: Ionian University
       time: 2017 - Present 
+        
+      
    
-   
-
     
 projects:
     title: Projects
