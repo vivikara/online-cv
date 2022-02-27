@@ -52,10 +52,14 @@ career-profile:
     
 education:
     tittle: Education 
-    Ionian University: 
+    Ionian University
     
 experiences:
    tittle: Experiences 
+    
+   -  university: Ionian University
+      time: 2017 - Present 
+   
    
 
     
