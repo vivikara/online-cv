@@ -43,17 +43,21 @@ career-profile:
     summary: |
       From 2017 I am Computer Science student at the Ionian University.Except this, I am a professional volleyball player and in my free time I also coaching and teaching volleyball
       young children especially girls.
+
 experiences: |
        Create Video-Game and E-shop for projects in the context of the courses.
     
       university: Ionian University
       time: 2017 - Present   
+
 projects:
     title: Projects
-    education:
+    
+education:
     tittle: Education 
     summary: | 
      Ionian University 
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -68,7 +72,6 @@ skills:
       - name: HTML5 & CSS
         level: 85%
         
-
       - name: Sketch & Photoshop
         level: 70%
 
