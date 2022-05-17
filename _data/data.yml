@@ -22,7 +22,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf:  http://www.africau.edu/images/default/sample.pdf 
 
     languages:
       - idiom: Greek
@@ -49,8 +49,6 @@ career-profile:
     summary: | 
       From 2017 I am Computer Science student at the Ionian University.Except this, I am a professional volleyball player and in my free time I also coaching and teaching volleyball
       young children especially girls. 
-      
-      
     
 education:
     tittle: Education 
