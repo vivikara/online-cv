@@ -45,6 +45,7 @@ career-profile:
       young children especially girls.
 
 experiences: 
+    tittle: | Experiences
     summary: |
        Create Video-Game and E-shop for projects in the context of the courses.
 
@@ -52,9 +53,9 @@ projects:
     title: Projects
     
 education:
-    tittle: Education 
-    summary: | 
-     Ionian University 
+   -degree: 
+    university: Ionian University
+      time: 2017 - Now
 
 
 skills:
