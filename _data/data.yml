@@ -23,6 +23,8 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf:  http://www.africau.edu/images/default/sample.pdf 
+    pdf: https://raw.githubusercontent.com/vivikara/online-cv/master/assets/Vivi-resume.pdf
+
 
     languages:
       - idiom: Greek
