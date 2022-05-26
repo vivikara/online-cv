@@ -17,7 +17,7 @@ sidebar:
     citizenship: Greece 
     github: vivikara
     website: vivikara.github.io/online-cv/ #do not add http://
-    pdf: ./CV/cv.pdf
+    pdf: ./pdf/cv.pdf
     
 
     languages:
